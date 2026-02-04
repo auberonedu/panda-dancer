@@ -1,0 +1,16 @@
+ol {
+    color: green;
+}
+
+p {
+    /* This matches Big Corporation LLC's branding: link to branding */
+    background-color: rgb(217, 241, 157);
+    text-decoration: underline;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul {
+    font-weight: bold;
+    font-size: larger;
+    font-family: monospace;
+}
